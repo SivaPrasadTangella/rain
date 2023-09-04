@@ -1,0 +1,49 @@
+ 
+       
+        h1 {
+            text-align: center;
+        }
+        
+            text-align: center;
+            align-content: center;
+        } body {
+            color: black;
+            text-align: center;
+            font-size: 25px;
+        }
+        
+        table {
+            margin-center: 200px;
+            text-align: center;
+            font-size: 30px;
+        }
+        
+        input {
+            margin: 30px;
+            height: 50px;
+            width: 291px;
+            font-size: 40px;
+            opacity: 0.5;
+            font-weight: bold;
+        }
+        
+        .input :hover {
+            border-color: white;
+        }
+        
+        button {
+            color: green(249, 247, 247);
+            background-color: aqua;
+            width: 70px;
+            height: 65px;
+            font-weight: bold;
+            font-size: 25px;
+        }
+        
+        button:hover {
+            background-color: red;
+            color: black;
+            border-color: white;
+        }
+        
+    
